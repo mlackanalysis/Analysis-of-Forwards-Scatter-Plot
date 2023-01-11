@@ -5,6 +5,6 @@ The quadrant analysis looks at the shot frequency and xG value of the shots bein
 
 
 
-For example, Newcastle's Callum Wilson is taking more shots of a higher xG than average and converting about as you would expect., Haaland is not only taking a lot of high xG shots but is significantly overperforming in his ability to finish them. Whereas Bamford and Nunez are getting good xG shooting opportunities but being wasteful with them. 
+For example, Newcastle's Callum Wilson is taking more shots of a higher xG than average and converting about as you would expect. Haaland is not only taking a lot of high xG shots but is significantly overperforming in his ability to finish them. Whereas Bamford and Nunez are getting good xG shooting opportunities but being wasteful with them. 
 
 ![newplot (8)](https://user-images.githubusercontent.com/122451735/211809764-64e87c92-3dcb-4c7a-8a8f-e7837f9db23e.png)
