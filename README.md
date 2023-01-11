@@ -1,5 +1,5 @@
 # Analysis-of-Forwards-Scatter-Plot
-A scatter plot for analysing the performance of forward players in football/soccer made using the Plotly graphing library in Python 3.0. The data was collected from FBref for 22-23 Premier League season and is accurate as of 11/01/2023. All players included had FW as their primary position tag and players with <300 mins playtime were removed. 
+A scatter plot for analysing the performance of forward players in football/soccer made using the Plotly graphing library in Python 3.0. The data was collected from FBref for 22-23 Premier League season and is accurate as of 11/01/2023. All players included had FW as their primary positional tag and players with <300 mins playtime were removed. 
 
 ![newplot (11)](https://user-images.githubusercontent.com/122451735/211830487-aad94fc3-d387-46a9-922b-c99654cbd373.png)
 
