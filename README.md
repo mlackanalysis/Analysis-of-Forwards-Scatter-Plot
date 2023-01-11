@@ -1,7 +1,7 @@
 # Analysis-of-Forwards-Scatter-Plot
 A scatter plot for analysing the performance of forward players in football/soccer made using the Plotly graphing library in Python 3.0. The data was collected from FBref for 22-23 Premier League season and is accurate as of 11/01/2023. All players included had FW as their primary position and players with <300 mins playtime were removed. 
 
-![newplot (8)](https://user-images.githubusercontent.com/122451735/211809764-64e87c92-3dcb-4c7a-8a8f-e7837f9db23e.png)
+![newplot (11)](https://user-images.githubusercontent.com/122451735/211830487-aad94fc3-d387-46a9-922b-c99654cbd373.png)
 
 The quadrant analysis looks at the shot frequency and xG value of the shots being achieved by Premier League forwards, i.e., how well are they generating shooting opportunities for themselves, and the quality of those opportunities based on xG. The colour scale indicates how well they have been converting their chances by displaying the player’s non-penalty goals minus non-penalty expected goals per 90 rate. 
 
