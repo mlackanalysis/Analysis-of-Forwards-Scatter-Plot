@@ -37,7 +37,7 @@ fig.update_traces(textposition='bottom right')
 
 fig.update_layout(uniformtext_minsize=8, uniformtext_mode='hide', font_family="Arial", plot_bgcolor="black", 
                   autosize=False, width=1000, height=750, coloraxis_colorbar=dict(title="np:G-xG"),
-                  paper_bgcolor="black", font = dict(color = 'white'), xaxis=dict(title_text="Shots per 90", titlefont=dict(size=20)), 
+                  paper_bgcolor="black", font = dict(color='white'), xaxis=dict(title_text="Shots per 90", titlefont=dict(size=20)), 
                   yaxis=dict(title_text="npxG per Shot", titlefont=dict(size=20)))
 
 # add quadrant lines 
