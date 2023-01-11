@@ -45,7 +45,7 @@ fig.update_layout(uniformtext_minsize=8, uniformtext_mode='hide', font_family="A
 fig.add_hline(y=npxg_shot_avg, opacity=.5, line_color="#39FF14")
 fig.add_vline(x=shot_90_avg, opacity=.5, line_color="#39FF14")
 
-# alter colour of grid
+# alter colour of grid lines
 
 fig.layout.xaxis.gridcolor="#3B3B3B"
 fig.layout.yaxis.gridcolor="#3B3B3B"
