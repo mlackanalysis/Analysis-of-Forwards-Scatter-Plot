@@ -5,7 +5,7 @@ import plotly.express as px
 
 # load csv as dataframe
 
-df = pd.read_csv(r'example\csvlocation.csv')
+df = pd.read_csv(r'example\replace_with_csv_location.csv')
 
 # preview data has loaded correctly
 
