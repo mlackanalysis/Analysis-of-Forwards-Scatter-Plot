@@ -50,6 +50,18 @@ fig.add_vline(x=shot_90_avg, opacity=.5, line_color="#39FF14")
 fig.layout.xaxis.gridcolor="#3B3B3B"
 fig.layout.yaxis.gridcolor="#3B3B3B"
 
+# add annotation
+
+fig.add_annotation(dict(font=dict(color='yellow',size=15),
+                                        x=0.85,
+                                        y=-0.11,
+                                        showarrow=False,
+                                        text="@mlackanalysis - data FBref",
+                                        textangle=0,
+                                        xanchor='left',
+                                        xref="paper",
+                                        yref="paper"))
+
 # display chart
 
 fig.show()
